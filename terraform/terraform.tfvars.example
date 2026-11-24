@@ -1,0 +1,7 @@
+region      = "us-east-1"
+alert_email = "mohmed.gahlan74@gmail.com"
+
+# Optional custom domain
+# domain_name         = "app.example.com"
+# hosted_zone_id      = "Z123456789"
+# acm_certificate_arn = "arn:aws:acm:us-east-1:123456789012:certificate/xxxx"
