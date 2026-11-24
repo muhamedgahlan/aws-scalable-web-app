@@ -1,7 +1,7 @@
 <h1 align="center">Scalable Web Application on AWS</h1>
 <p align="center"><b>ALB + Auto Scaling + CloudFront + Multi-AZ RDS</b><br>
 AWS Solutions Architect – Associate | Graduation Project 1<br>
-<b>Author:</b> _Your Name_ · <a href="#">LinkedIn</a> · <a href="#">Demo Video</a> · <a href="#">Live URL</a></p>
+<b>Author:</b> Mohamed Gahlan Mohamed Abdeltawab 
 
 ## Table of Contents
 
